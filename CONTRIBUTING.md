@@ -3,7 +3,7 @@
 We welcome contributions from the community! Whether you're looking to fix bugs, add new features, or improve documentation, your help is appreciated. Please follow these guidelines to contribute effectively.
 
 ## Discussion and Collaboration
-The main channel for discussion and collaboration is our OWASP Slack channel: #team-llm-datagathering-methodology
+The main channel for discussion and collaboration is our OWASP Slack channel: '#team-llm-datagathering-methodology'
 
 We use this channel for regular discussions on the project's methodology, future enhancements, and any issues we're currently facing. It's a great place to ask questions, propose ideas, and collaborate with others who are working on similar problems.
 
