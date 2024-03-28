@@ -31,9 +31,9 @@ It is expected that the provided scripts will need to be adapted for each specif
 To begin using the validation and QC scripts, please ensure you have the following prerequisites installed:
 
 - Python 3.8 or higher
-- Necessary Python libraries as listed in `requirements.txt`
+- Necessary Python libraries as listed in `each md file`
 
-Follow the setup instructions in `SETUP.md` to configure your environment and adapt the scripts to your dataset. For detailed documentation on each script and how to customize it, refer to the `docs` folder.
+Follow the setup instructions in `SETUP.md` to configure your environment and adapt the scripts to your dataset. For detailed documentation on each script and how to customize it, refer to the `md` files.
 
 ## Contribution
 Your contributions are welcome! If you have suggestions for improving the validation and QC methodology, please open an issue or submit a pull request with your proposed changes. For more information on contributing, please see `CONTRIBUTING.md`.
