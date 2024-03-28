@@ -14,10 +14,6 @@ For robust validation and security checks, it's recommended to integrate automat
 
 These tools can be incorporated into CI/CD pipelines to automate the detection of security issues and vulnerabilities, reducing the risk of deploying compromised or insecure LLM applications.
 
-### GitHub Markdown for the Script
-
-To share the script via GitHub markdown, wrap the Python code in a code block within the markdown document as shown below:
-
 ```markdown
 # Data Validation for LLM Applications
 
