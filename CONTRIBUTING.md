@@ -1,4 +1,4 @@
-# Contributing to OWASP Top 10 for LLM AI Applications
+# Contributing to OWASP Top 10 for LLM AI Applications Data Validation
 
 We welcome contributions from the community! Whether you're looking to fix bugs, add new features, or improve documentation, your help is appreciated. Please follow these guidelines to contribute effectively.
 
